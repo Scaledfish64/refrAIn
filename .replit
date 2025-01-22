@@ -1,0 +1,8 @@
+modules = ["cpp-clang14"]
+run = "g++ -o main midi.cpp midifile/src/Binasc.cpp midifile/src/MidiEvent.cpp midifile/src/MidiEventList.cpp midifile/src/MidiFile.cpp midifile/src/MidiMessage.cpp midifile/src/Options.cpp && ./main"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "g++ -o main main.cpp && ./main"]
