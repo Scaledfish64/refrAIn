@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|solutionrelative:midi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\midi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|solutionrelative:midifile\\include\\midi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\MidiFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|solutionrelative:midifile\\include\\MidiFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\src\\midi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|solutionrelative:midifile\\src\\midi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\src\\Binasc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|solutionrelative:midifile\\src\\Binasc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\MidiEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E2018C6-7032-42CA-88A3-04FFB1DD1CAC}|midiConverter.vcxproj|solutionrelative:midifile\\include\\MidiEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +34,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "midi.cpp",
+              "DocumentMoniker": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\src\\midi.cpp",
+              "RelativeDocumentMoniker": "midifile\\src\\midi.cpp",
+              "ToolTip": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\src\\midi.cpp",
+              "RelativeToolTip": "midifile\\src\\midi.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T23:09:22.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "midi.h",
+              "DocumentMoniker": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\midi.h",
+              "RelativeDocumentMoniker": "midifile\\include\\midi.h",
+              "ToolTip": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\midi.h",
+              "RelativeToolTip": "midifile\\include\\midi.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-22T23:06:48.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T22:58:27.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MidiFile.h",
+              "DocumentMoniker": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\MidiFile.h",
+              "RelativeDocumentMoniker": "midifile\\include\\MidiFile.h",
+              "ToolTip": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\MidiFile.h",
+              "RelativeToolTip": "midifile\\include\\MidiFile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-22T03:29:08.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MidiEvent.h",
+              "DocumentMoniker": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\MidiEvent.h",
+              "RelativeDocumentMoniker": "midifile\\include\\MidiEvent.h",
+              "ToolTip": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\include\\MidiEvent.h",
+              "RelativeToolTip": "midifile\\include\\MidiEvent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-22T03:28:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Binasc.cpp",
               "DocumentMoniker": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midifile\\src\\Binasc.cpp",
               "RelativeDocumentMoniker": "midifile\\src\\Binasc.cpp",
@@ -30,19 +110,7 @@
               "RelativeToolTip": "midifile\\src\\Binasc.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T21:40:56.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "midi.cpp",
-              "DocumentMoniker": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midi.cpp",
-              "RelativeDocumentMoniker": "midi.cpp",
-              "ToolTip": "C:\\Users\\tharu\\OneDrive\\Research\\midiConverter\\midi.cpp",
-              "RelativeToolTip": "midi.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T21:22:17.438Z",
+              "WhenOpened": "2025-01-21T21:40:56.819Z",
               "EditorCaption": ""
             }
           ]

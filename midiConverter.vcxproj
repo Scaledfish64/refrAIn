@@ -131,10 +131,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="midi.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="midifile\src\Binasc.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tharu\OneDrive\Research\midiConverter\midifile</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="midifile\src\midi.cpp" />
     <ClCompile Include="midifile\src\MidiEvent.cpp" />
     <ClCompile Include="midifile\src\MidiEventList.cpp" />
     <ClCompile Include="midifile\src\MidiFile.cpp" />
@@ -143,6 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="midifile\include\Binasc.h" />
+    <ClInclude Include="midifile\include\midi.h" />
     <ClInclude Include="midifile\include\MidiEvent.h" />
     <ClInclude Include="midifile\include\MidiEventList.h" />
     <ClInclude Include="midifile\include\MidiFile.h" />
